@@ -1,5 +1,16 @@
 # Item Catalog; a collaborative item catelog in which all users have permission to edit any item once logged in. 
 
+IP Address: 54.83.187.17
+SSH Port: 2222
+URL: http://newb.devcubator.com/
+
+Installed Software:
+* Apache
+* PostgreSQL
+* Ubuntu
+
+Configurations Made:
+
 # Dependencies
 - [python3](https://www.python.org/download/releases/3.0/)
 - flask
