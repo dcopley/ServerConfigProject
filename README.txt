@@ -52,4 +52,5 @@ A file named catalog.db will be created the first time you run this program whic
  - Udacity.com API and OAuth training example code
 ### Honorable Mentions:
  - Hostgator.com
-
+### 3rd Party Software:
+ - Google oAuth implementation
